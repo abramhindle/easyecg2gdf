@@ -3,9 +3,9 @@ LICENSE
 
 This software is Free Software (GPLv2)
 
-Copyright (C) 2000-2014 George B. Moody and Edna S. Moody
-Copyright (C) 2017 Peter Lawrence
-Copyright (C) 2019 Abram Hindle
+    Copyright (C) 2000-2014 George B. Moody and Edna S. Moody
+    Copyright (C) 2017 Peter Lawrence
+    Copyright (C) 2019 Abram Hindle
 
 Peter claims:
 
